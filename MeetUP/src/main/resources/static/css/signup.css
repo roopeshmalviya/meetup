@@ -1,0 +1,17 @@
+.form-div{
+    margin-top: 100px;
+}
+
+.vertical-line{
+    padding-top: 10%;
+    border-right : 1.5px solid #1fa2df;
+    height: auto;
+}
+
+.signup{
+    text-align: center;
+}
+
+.login{
+    text-align: center;
+}
